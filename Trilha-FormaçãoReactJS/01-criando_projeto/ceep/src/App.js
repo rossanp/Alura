@@ -1,6 +1,6 @@
 import React from 'react';
-import FormularioCadastro from './components/FormularioCadastro/FormularioCadastro.jsx';
-import ListaDeNotas from './components/ListaDeNotas/ListaDeNotas';
+import FormularioCadastro from './components/FormularioCadastro/';
+import ListaDeNotas from './components/ListaDeNotas/';
 import './assets/App.css';
 import './assets/index.css';
 import { Component } from 'react';
